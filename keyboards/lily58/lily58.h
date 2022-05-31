@@ -6,4 +6,6 @@
     #include "light.h"
 #elif KEYBOARD_lily58_glow_enc
     #include "glow_enc.h"
+#elif KEYBOARD_lily58_pro_re
+    #include "pro_re.h"
 #endif
